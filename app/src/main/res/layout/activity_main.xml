@@ -182,12 +182,12 @@
 
             <ImageButton
                 android:id="@+id/openCamera"
-                android:contentDescription="@null"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:background="#003F4BB5"
                 android:backgroundTint="#00B5903F"
+                android:contentDescription="@null"
                 android:foregroundGravity="center"
                 app:srcCompat="@drawable/outline_add_24" />
         </androidx.cardview.widget.CardView>
